@@ -8,7 +8,7 @@
 <channel>
 	<title>
 	Comentários sobre: Olá, mundo!	</title>
-	<atom:link href="http://localhost/techeduca/ola-mundo/feed/?simply_static_page=483" rel="self" type="application/rss+xml" />
+	<atom:link href="/ola-mundo/feed/" rel="self" type="application/rss+xml" />
 	<link>/ola-mundo/</link>
 	<description></description>
 	<lastBuildDate>Thu, 27 Jun 2024 14:16:14 +0000</lastBuildDate>
@@ -16,7 +16,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6</generator>
 	<item>
 		<title>
 		Por: Um comentarista do WordPress		</title>
