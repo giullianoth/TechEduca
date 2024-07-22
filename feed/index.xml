@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
-	<lastBuildDate>Thu, 27 Jun 2024 14:16:14 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 22 Jul 2024 14:13:37 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,21 +28,59 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Olá, mundo!</title>
-		<link>/ola-mundo/</link>
-					<comments>/ola-mundo/#comments</comments>
+		<title>Post</title>
+		<link>/post/</link>
+					<comments>/post/#comments</comments>
 		
 		<dc:creator><![CDATA[tharso]]></dc:creator>
 		<pubDate>Thu, 27 Jun 2024 14:16:14 +0000</pubDate>
 				<category><![CDATA[Sem categoria]]></category>
 		<guid isPermaLink="false">/?p=1</guid>
 
-					<description><![CDATA[Boas-vindas ao WordPress. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece a escrever!]]></description>
-										<content:encoded><![CDATA[
-<p>Boas-vindas ao WordPress. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece a escrever!</p>
-]]></content:encoded>
+					<description><![CDATA[Learn Web Development In The Eaasiest Way Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu eleifend eros. Nullam vitae ornare ipsum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec efficitur cursus diam, quis convallis ligula faucibus vitae. Curabitur et arcu viverra, sodales lacus vel, dapibus velit. Duis [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1" class="elementor elementor-1">
+				<article class="elementor-element elementor-element-4168de2b e-flex e-con-boxed e-con e-parent" data-id="4168de2b" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-3e7b1b6 elementor-widget elementor-widget-image" data-id="3e7b1b6" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.23.0 - 15-07-2024 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>										<img fetchpriority="high" decoding="async" width="800" height="535" src="/wp-content/uploads/2024/07/b1.jpg" class="attachment-large size-large wp-image-518" alt="" />													</div>
+				</div>
+				<div class="elementor-element elementor-element-efb0451 elementor-widget elementor-widget-heading" data-id="efb0451" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.23.0 - 15-07-2024 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default">Learn Web Development In The Eaasiest Way</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-d9390c6 elementor-widget elementor-widget-text-editor" data-id="d9390c6" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.23.0 - 15-07-2024 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu eleifend eros. Nullam vitae ornare ipsum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec efficitur cursus diam, quis convallis ligula faucibus vitae. Curabitur et arcu viverra, sodales lacus vel, dapibus velit. Duis fermentum tortor ipsum, porta accumsan eros sagittis in. Integer eros tortor, ornare quis eros ut, rhoncus auctor eros.</p>
+<p>Ut malesuada porta metus, nec pretium lectus porttitor sed. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Morbi sit amet justo dolor. Nunc urna nunc, tempus id vehicula nec, mattis eget nunc. Vestibulum eget facilisis lacus, dictum ultricies dolor. Aenean in fermentum augue, at facilisis justo. Nullam fringilla non diam nec commodo. Quisque lacus lectus, commodo quis pretium vitae, vulputate at urna. Donec aliquam ligula dolor. Morbi condimentum purus eget lacus pretium, ut consequat dolor facilisis. Sed sagittis laoreet erat, vel rhoncus neque vehicula ut.</p>
+<p>Donec non nisi elit. Donec in mi magna. Quisque consequat ac magna in rhoncus. Nam ac turpis nisl. Nulla facilisi. Nam in augue nec ex imperdiet iaculis quis vel arcu. Donec vehicula placerat turpis, venenatis scelerisque elit rhoncus eu. Aliquam rutrum aliquet tortor at fringilla. Cras urna sem, posuere eget leo sit amet, placerat interdum nisl. Fusce eu urna in tellus placerat mollis. Nullam feugiat nec nulla eget ornare. Nulla gravida turpis luctus nunc sollicitudin, sed euismod justo accumsan. Vivamus mattis vestibulum tempus. Nulla efficitur leo ac nisi dictum suscipit. Mauris elementum, diam nec sagittis dapibus, arcu dolor sollicitudin purus, laoreet luctus justo lorem ut enim. Quisque vel porttitor tellus, id dictum metus.</p>
+<p>Proin auctor odio et cursus volutpat. Nullam sit amet ultricies elit. Vivamus malesuada nulla eget tortor consectetur, in aliquam arcu tincidunt. Phasellus ornare sed dolor dignissim sodales. Praesent vestibulum convallis suscipit. Donec finibus felis nec laoreet rutrum. Nulla vehicula tortor ex, ut facilisis ipsum pretium at. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis ultricies pulvinar leo, ac varius erat laoreet id. Sed sollicitudin nunc eget justo auctor, id pellentesque tortor sodales. Cras eleifend blandit mi ac commodo. Pellentesque maximus purus dignissim ante sollicitudin, eget interdum arcu bibendum. Nam dapibus diam eu elementum volutpat.</p>
+<p>Proin maximus, nulla vitae pulvinar mollis, nisi ante rhoncus urna, in lobortis tellus ex sit amet lacus. Sed id pretium augue, nec aliquam diam. Sed et suscipit sapien, et semper velit. Curabitur et aliquam nisl. Pellentesque a sagittis lorem, sed aliquet lectus. Sed in posuere tortor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut vehicula sem ut gravida blandit. Mauris posuere congue augue, vel facilisis ligula maximus vitae. Morbi libero massa, hendrerit eu felis quis, auctor ornare erat. Phasellus diam dui, rhoncus vel consequat a, maximus in dolor.</p>
+<p>Proin non varius felis, id efficitur diam. Pellentesque id bibendum arcu. Phasellus dolor metus, tempus id accumsan blandit, volutpat vitae turpis. Proin sollicitudin quam nulla, ut imperdiet arcu facilisis et. Ut sagittis, eros et facilisis maximus, mi urna tincidunt sapien, id eleifend magna eros volutpat libero. Pellentesque risus nibh, venenatis a eleifend at, eleifend id justo. Maecenas commodo orci id nulla mattis, sit amet hendrerit nisi accumsan.</p>
+<p>Fusce vel egestas lacus, id consequat metus. Etiam volutpat tempor hendrerit. In eu risus eleifend, gravida mauris quis, egestas nunc. Sed auctor hendrerit nisl eget efficitur. Suspendisse sodales, ipsum eu aliquet efficitur, urna nibh facilisis nibh, at vulputate libero lorem vel neque. Morbi semper odio elit, ac venenatis orci laoreet vitae. Curabitur eu massa vehicula risus imperdiet varius. Integer a dolor a odio viverra facilisis vel nec massa. Donec leo nunc, convallis quis tristique in, aliquam vel risus. Proin a nulla imperdiet, facilisis enim finibus, laoreet libero. Pellentesque sit amet tincidunt odio. Quisque tincidunt nec tortor vel imperdiet.</p>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-5a4964d elementor-widget elementor-widget-button" data-id="5a4964d" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="#">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Read Next?</span>
+					</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+				</article>
+				</div>
+		]]></content:encoded>
 					
-					<wfw:commentRss>/ola-mundo/feed/</wfw:commentRss>
+					<wfw:commentRss>/post/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
