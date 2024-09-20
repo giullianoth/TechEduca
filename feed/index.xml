@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
-	<lastBuildDate>Fri, 20 Sep 2024 13:19:53 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 20 Sep 2024 14:29:08 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -37,10 +37,41 @@
 				<category><![CDATA[Sem categoria]]></category>
 		<guid isPermaLink="false">/?p=1</guid>
 
-					<description><![CDATA[Boas-vindas ao WordPress. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece a escrever!]]></description>
-										<content:encoded><![CDATA[
-<p>Boas-vindas ao WordPress. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece a escrever!</p>
-]]></content:encoded>
+					<description><![CDATA[Aprenda Desenvolvimento Web da maneira mais fácil Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Mussum Ipsum, cacilds vidis litro abertis. Leite de capivaris, leite de mula manquis sem cabeça. Detraxit consequat et quo num tendi nada. Hoje é sexta-feris, dia da maldadis! Mé faiz [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1" class="elementor elementor-1">
+				<article class="elementor-element elementor-element-3703fc2 e-flex e-con-boxed e-con e-parent" data-id="3703fc2" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-6b299c1 elementor-widget elementor-widget-image" data-id="6b299c1" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img fetchpriority="high" decoding="async" width="800" height="535" src="/wp-content/uploads/2024/09/b1.jpg" class="attachment-large size-large wp-image-445" alt="" />													</div>
+				</div>
+				<div class="elementor-element elementor-element-c824c28 elementor-widget elementor-widget-heading" data-id="c824c28" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">Aprenda Desenvolvimento Web da maneira mais fácil</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-0f2eccc elementor-widget elementor-widget-text-editor" data-id="0f2eccc" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
+<p>Mussum Ipsum, cacilds vidis litro abertis. Leite de capivaris, leite de mula manquis sem cabeça. Detraxit consequat et quo num tendi nada. Hoje é sexta-feris, dia da maldadis! Mé faiz elementum girarzis, nisi eros vermeio. Detraxit consequat et quo num tendi nada. Nec orci ornare consequat. Praesent lacinia ultrices consectetur. Sed non ipsum felis. A ordem dos tratores não altera o pão duris. Quem num gosta di mé, boa gentis num é.</p>
+<p>Suco de cevadiss, é um leite divinis, qui tem lupuliz, matis, aguis e fermentis. Aenean aliquam molestie leo, vitae iaculis nisl. Diuretics paradis num copo é motivis de denguis. Per aumento de cachacis, eu reclamis. Sapien in monti palavris qui num significa nadis i pareci latim. Quem num gosta di mé, boa gentis num é. Mauris nec dolor in eros commodo tempor. Aenean aliquam molestie leo, vitae iaculis nisl. Quem manda na minha terra sou euzis!</p>
+<p>Casamentiss faiz malandris se pirulitá. Eu nunca mais boto a boca num copo de cachaça, agora eu só uso canudis! Detraxit consequat et quo num tendi nada. Interagi no mé, cursus quis, vehicula ac nisi. Negão é teu passadis, eu sou faxa pretis. Mé faiz elementum girarzis, nisi eros vermeio. Paisis, filhis, espiritis santis. Nec orci ornare consequat. Praesent lacinia ultrices consectetur. Sed non ipsum felis.</p>
+<p>Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis. Nec orci ornare consequat. Praesent lacinia ultrices consectetur. Sed non ipsum felis. Sapien in monti palavris qui num significa nadis i pareci latim. Ô gente finis, pode baixar uma ampolis que hoje é sexta-feris!</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-35439bb elementor-mobile-align-justify elementor-widget elementor-widget-button" data-id="35439bb" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="#">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Ler o próximo?</span>
+					</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+				</article>
+				</div>
+		]]></content:encoded>
 					
 					<wfw:commentRss>/2024/09/18/post/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>

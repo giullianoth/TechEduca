@@ -403,7 +403,7 @@
 		href="/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.24.3" media="all">
 	<link rel="stylesheet" id="e-apple-webkit-css"
 		href="/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.24.3" media="all">
-	<link rel="stylesheet" id="elementor-post-2-css" href="/wp-content/uploads/elementor/css/post-2.css?ver=1726837707"
+	<link rel="stylesheet" id="elementor-post-2-css" href="/wp-content/uploads/elementor/css/post-2.css?ver=1726844147"
 		media="all">
 	<link rel="stylesheet" id="elementor-post-8-css" href="/wp-content/uploads/elementor/css/post-8.css?ver=1726776073"
 		media="all">
@@ -543,12 +543,25 @@
 			color: #FDC93B;
 		}
 
+		.te-course-card a:has(img) {
+			display: block;
+		}
+
 		.te-reminder {
 			backdrop-filter: blur(4px);
 		}
 
 		.te-form-noshadow button {
 			box-shadow: none;
+		}
+
+		.te-course-instructor img {
+			height: 60px;
+			object-fit: cover;
+		}
+
+		.te-course-include h3 {
+			margin: 0
 		}
 
 		.te-footer-social a {
@@ -888,15 +901,17 @@
 					</div>
 					<div class="elementor-element elementor-element-438f4fd e-grid e-con-full e-con e-child"
 						data-id="438f4fd" data-element_type="container">
-						<article class="elementor-element elementor-element-1127c71 e-con-full e-flex e-con e-child"
+						<article
+							class="elementor-element elementor-element-1127c71 e-con-full te-course-card e-flex e-con e-child"
 							data-id="1127c71" data-element_type="container"
 							data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-							<div class="elementor-element elementor-element-9f9ba4f elementor-widget elementor-widget-image"
+							<div class="elementor-element elementor-element-9f9ba4f elementor-widget__width-inherit elementor-widget elementor-widget-image"
 								data-id="9f9ba4f" data-element_type="widget" data-widget_type="image.default">
 								<div class="elementor-widget-container">
-									<img decoding="async" width="1920" height="1280"
-										src="/wp-content/uploads/2024/09/c1.jpg"
-										class="attachment-full size-full wp-image-118" alt="">
+									<a href="/curso/">
+										<img decoding="async" width="1920" height="1280"
+											src="/wp-content/uploads/2024/09/c1.jpg"
+											class="attachment-full size-full wp-image-118" alt=""> </a>
 								</div>
 							</div>
 							<div class="elementor-element elementor-element-65c8ec5 e-con-full e-flex e-con e-child"
@@ -910,8 +925,8 @@
 								<div class="elementor-element elementor-element-af844f7 elementor-widget elementor-widget-heading"
 									data-id="af844f7" data-element_type="widget" data-widget_type="heading.default">
 									<div class="elementor-widget-container">
-										<h2 class="elementor-heading-title elementor-size-default">Curso JavaScript
-											Básico</h2>
+										<h2 class="elementor-heading-title elementor-size-default"><a
+												href="/curso/">Curso JavaScript Básico</a></h2>
 									</div>
 								</div>
 								<div class="elementor-element elementor-element-81021d3 e-con-full e-flex e-con e-child"
@@ -1051,15 +1066,17 @@
 								</div>
 							</div>
 						</article>
-						<article class="elementor-element elementor-element-6a09417 e-con-full e-flex e-con e-child"
+						<article
+							class="elementor-element elementor-element-6a09417 e-con-full te-course-card e-flex e-con e-child"
 							data-id="6a09417" data-element_type="container"
 							data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 							<div class="elementor-element elementor-element-07a14d1 elementor-widget elementor-widget-image"
 								data-id="07a14d1" data-element_type="widget" data-widget_type="image.default">
 								<div class="elementor-widget-container">
-									<img decoding="async" width="1920" height="1280"
-										src="/wp-content/uploads/2024/09/c2.jpg"
-										class="attachment-full size-full wp-image-131" alt="">
+									<a href="/curso/">
+										<img decoding="async" width="1920" height="1280"
+											src="/wp-content/uploads/2024/09/c2.jpg"
+											class="attachment-full size-full wp-image-131" alt=""> </a>
 								</div>
 							</div>
 							<div class="elementor-element elementor-element-52cda47 e-con-full e-flex e-con e-child"
@@ -1073,8 +1090,8 @@
 								<div class="elementor-element elementor-element-d327529 elementor-widget elementor-widget-heading"
 									data-id="d327529" data-element_type="widget" data-widget_type="heading.default">
 									<div class="elementor-widget-container">
-										<h2 class="elementor-heading-title elementor-size-default">Curso HTML & CSS
-											Básico</h2>
+										<h2 class="elementor-heading-title elementor-size-default"><a
+												href="/curso/">Curso HTML & CSS Básico</a></h2>
 									</div>
 								</div>
 								<div class="elementor-element elementor-element-0857482 e-con-full e-flex e-con e-child"
@@ -1214,15 +1231,17 @@
 								</div>
 							</div>
 						</article>
-						<article class="elementor-element elementor-element-cfc8d48 e-con-full e-flex e-con e-child"
+						<article
+							class="elementor-element elementor-element-cfc8d48 e-con-full te-course-card e-flex e-con e-child"
 							data-id="cfc8d48" data-element_type="container"
 							data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 							<div class="elementor-element elementor-element-36ff945 elementor-widget elementor-widget-image"
 								data-id="36ff945" data-element_type="widget" data-widget_type="image.default">
 								<div class="elementor-widget-container">
-									<img loading="lazy" decoding="async" width="1920" height="1080"
-										src="/wp-content/uploads/2024/09/c3.jpg"
-										class="attachment-full size-full wp-image-132" alt="">
+									<a href="/curso/">
+										<img loading="lazy" decoding="async" width="1920" height="1080"
+											src="/wp-content/uploads/2024/09/c3.jpg"
+											class="attachment-full size-full wp-image-132" alt=""> </a>
 								</div>
 							</div>
 							<div class="elementor-element elementor-element-977a52d e-con-full e-flex e-con e-child"
@@ -1236,8 +1255,8 @@
 								<div class="elementor-element elementor-element-2e7c5a9 elementor-widget elementor-widget-heading"
 									data-id="2e7c5a9" data-element_type="widget" data-widget_type="heading.default">
 									<div class="elementor-widget-container">
-										<h2 class="elementor-heading-title elementor-size-default">Curso Python Básico
-										</h2>
+										<h2 class="elementor-heading-title elementor-size-default"><a
+												href="/curso/">Curso Python Básico</a></h2>
 									</div>
 								</div>
 								<div class="elementor-element elementor-element-dbb4100 e-con-full e-flex e-con e-child"
@@ -1377,15 +1396,17 @@
 								</div>
 							</div>
 						</article>
-						<article class="elementor-element elementor-element-0af3b02 e-con-full e-flex e-con e-child"
+						<article
+							class="elementor-element elementor-element-0af3b02 e-con-full te-course-card e-flex e-con e-child"
 							data-id="0af3b02" data-element_type="container"
 							data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 							<div class="elementor-element elementor-element-e313fc9 elementor-widget elementor-widget-image"
 								data-id="e313fc9" data-element_type="widget" data-widget_type="image.default">
 								<div class="elementor-widget-container">
-									<img loading="lazy" decoding="async" width="1920" height="1280"
-										src="/wp-content/uploads/2024/09/c4.jpg"
-										class="attachment-full size-full wp-image-133" alt="">
+									<a href="/curso/">
+										<img loading="lazy" decoding="async" width="1920" height="1280"
+											src="/wp-content/uploads/2024/09/c4.jpg"
+											class="attachment-full size-full wp-image-133" alt=""> </a>
 								</div>
 							</div>
 							<div class="elementor-element elementor-element-2b52bb8 e-con-full e-flex e-con e-child"
@@ -1399,8 +1420,8 @@
 								<div class="elementor-element elementor-element-c7ef7fa elementor-widget elementor-widget-heading"
 									data-id="c7ef7fa" data-element_type="widget" data-widget_type="heading.default">
 									<div class="elementor-widget-container">
-										<h2 class="elementor-heading-title elementor-size-default">Curso Web Design
-											Intensivo</h2>
+										<h2 class="elementor-heading-title elementor-size-default"><a
+												href="/curso/">Curso Web Design Intensivo</a></h2>
 									</div>
 								</div>
 								<div class="elementor-element elementor-element-c5796a7 e-con-full e-flex e-con e-child"
@@ -1540,15 +1561,17 @@
 								</div>
 							</div>
 						</article>
-						<article class="elementor-element elementor-element-a51310d e-con-full e-flex e-con e-child"
+						<article
+							class="elementor-element elementor-element-a51310d e-con-full te-course-card e-flex e-con e-child"
 							data-id="a51310d" data-element_type="container"
 							data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 							<div class="elementor-element elementor-element-93ccbea elementor-widget elementor-widget-image"
 								data-id="93ccbea" data-element_type="widget" data-widget_type="image.default">
 								<div class="elementor-widget-container">
-									<img loading="lazy" decoding="async" width="1920" height="1282"
-										src="/wp-content/uploads/2024/09/c5.jpg"
-										class="attachment-full size-full wp-image-135" alt="">
+									<a href="/curso/">
+										<img loading="lazy" decoding="async" width="1920" height="1282"
+											src="/wp-content/uploads/2024/09/c5.jpg"
+											class="attachment-full size-full wp-image-135" alt=""> </a>
 								</div>
 							</div>
 							<div class="elementor-element elementor-element-cf4a27f e-con-full e-flex e-con e-child"
@@ -1562,8 +1585,8 @@
 								<div class="elementor-element elementor-element-d379fd9 elementor-widget elementor-widget-heading"
 									data-id="d379fd9" data-element_type="widget" data-widget_type="heading.default">
 									<div class="elementor-widget-container">
-										<h2 class="elementor-heading-title elementor-size-default">Curso Desenvolvimento
-											Web Intensivo</h2>
+										<h2 class="elementor-heading-title elementor-size-default"><a
+												href="/curso/">Curso Desenvolvimento Web Intensivo</a></h2>
 									</div>
 								</div>
 								<div class="elementor-element elementor-element-7dbd60f e-con-full e-flex e-con e-child"
@@ -1703,15 +1726,17 @@
 								</div>
 							</div>
 						</article>
-						<article class="elementor-element elementor-element-2eefcd5 e-con-full e-flex e-con e-child"
+						<article
+							class="elementor-element elementor-element-2eefcd5 e-con-full te-course-card e-flex e-con e-child"
 							data-id="2eefcd5" data-element_type="container"
 							data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 							<div class="elementor-element elementor-element-6d3e950 elementor-widget elementor-widget-image"
 								data-id="6d3e950" data-element_type="widget" data-widget_type="image.default">
 								<div class="elementor-widget-container">
-									<img loading="lazy" decoding="async" width="750" height="422"
-										src="/wp-content/uploads/2024/09/c6.jpg"
-										class="attachment-full size-full wp-image-134" alt="">
+									<a href="/curso/">
+										<img loading="lazy" decoding="async" width="750" height="422"
+											src="/wp-content/uploads/2024/09/c6.jpg"
+											class="attachment-full size-full wp-image-134" alt=""> </a>
 								</div>
 							</div>
 							<div class="elementor-element elementor-element-0579a28 e-con-full e-flex e-con e-child"
@@ -1725,8 +1750,8 @@
 								<div class="elementor-element elementor-element-91d6cf0 elementor-widget elementor-widget-heading"
 									data-id="91d6cf0" data-element_type="widget" data-widget_type="heading.default">
 									<div class="elementor-widget-container">
-										<h2 class="elementor-heading-title elementor-size-default">Curso Angular Básico
-										</h2>
+										<h2 class="elementor-heading-title elementor-size-default"><a
+												href="/curso/">Curso Angular Básico</a></h2>
 									</div>
 								</div>
 								<div class="elementor-element elementor-element-3cb9c57 e-con-full e-flex e-con e-child"
