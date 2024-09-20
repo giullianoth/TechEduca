@@ -11,7 +11,7 @@
 	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
-	<lastBuildDate>Wed, 18 Sep 2024 22:16:06 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 20 Sep 2024 13:19:53 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -19,8 +19,8 @@
 	<generator>https://wordpress.org/?v=6.6.2</generator>
 	<item>
 		<title>
-		Comentário sobre Olá, mundo! por Um comentarista do WordPress		</title>
-		<link>/2024/09/18/ola-mundo/#comment-1</link>
+		Comentário sobre Post por Um comentarista do WordPress		</title>
+		<link>/2024/09/18/post/#comment-1</link>
 
 		<dc:creator><![CDATA[Um comentarista do WordPress]]></dc:creator>
 		<pubDate>Wed, 18 Sep 2024 22:16:06 +0000</pubDate>
