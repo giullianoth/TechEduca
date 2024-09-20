@@ -29,8 +29,8 @@
 </image> 
 	<item>
 		<title>Post</title>
-		<link>/2024/09/18/post/</link>
-					<comments>/2024/09/18/post/#comments</comments>
+		<link>/blog/post/</link>
+					<comments>/blog/post/#comments</comments>
 		
 		<dc:creator><![CDATA[tharso]]></dc:creator>
 		<pubDate>Wed, 18 Sep 2024 22:16:06 +0000</pubDate>
@@ -73,7 +73,7 @@
 				</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>/2024/09/18/post/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog/post/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
